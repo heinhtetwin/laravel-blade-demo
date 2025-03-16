@@ -1,0 +1,14 @@
+/node_modules
+/public/css
+/public/hot
+/public/js
+/public/storage
+/public/mix-manifest.json
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+npm-debug.log
+composer.lock
+package-lock.json
